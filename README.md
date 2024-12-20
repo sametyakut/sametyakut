@@ -1,7 +1,6 @@
 ## Hi there 👋
 ### I am a graduate researcher at [METU Power Lab](https://odtu.github.io/). I received my BSc degree from the Department of Electrical & Electronics Engineering, METU. I am currently pursuing my Master's education at the same department. 
 - 🔭 I’m currently working on upgrading & uprating of hydrogenerators. Interested in electrical machinery and power electronics.
-- 📫 How to reach me: msametyakut@yahoo.com
 <!--
 **sametyakut/sametyakut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
